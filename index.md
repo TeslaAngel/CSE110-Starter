@@ -6,8 +6,8 @@ In general, I like creating funny or cool things out of my computer, which is wh
 You can check some of my works [Here](https://www.artstation.com/teslaangel7).
 
 And here's my current work-in-progress:
-![OT64 in maya](/OT64-with-topology.png)
-Link to image: [OT64-with-topology.png](/OT64-with-topology.png)
+![OT64 in maya](/ot64-with-topology.png)
+Link to image: [OT64-with-topology.png](/ot64-with-topology.png)
 
 ## About Programming
 In general, I don't like math, and I'm terrible in stuffs like leetcode. However, I still love to create entertaining things like minigames on my computer, which is why I haven't yet switched my major. And, programming is useful in almost any field of work today, just as what *Ram Ray* said:
@@ -21,7 +21,7 @@ Career wise though, I'm struggling to find internship right now since my code do
 
 ## About myself
 I'm a gamer and tech people, I used to have a 3D printer (which I couldn't carry to SD) and I invented some pretty cool small items with it for sale. It was a fun time adjusting the machine and produce things I designed in real life.
-For games, I play the Legend of Zelda series and WARNO. I like fun games that are intellectually challenging and with intuitive designs. These work also deeply influenced my art style, which you can find Here: [Brief Introduction](#Brief-Introduction).
+For games, I play the Legend of Zelda series and WARNO. I like fun games that are intellectually challenging and with intuitive designs. These work also deeply influenced my art style, which you can find Here: [Brief Introduction](#brief-introduction).
 
 ## Other stuffs
 Games that I played:
