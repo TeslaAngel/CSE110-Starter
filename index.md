@@ -6,8 +6,8 @@ In general, I like creating funny or cool things out of my computer, which is wh
 You can check some of my works [Here](https://www.artstation.com/teslaangel7).
 
 And here's my current work-in-progress:
-![OT64 in maya](OT64-with-topology.png)
-Link to image: [OT64-with-topology.png](OT64-with-topology.png)
+![OT64 in maya](/OT64-with-topology.png)
+Link to image: [OT64-with-topology.png](/OT64-with-topology.png)
 
 ## About Programming
 In general, I don't like math, and I'm terrible in stuffs like leetcode. However, I still love to create entertaining things like minigames on my computer, which is why I haven't yet switched my major. And, programming is useful in almost any field of work today, just as what *Ram Ray* said:
