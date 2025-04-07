@@ -12,6 +12,7 @@ Link to image: [OT64-with-topology.png](/OT64-with-topology.png)
 ## About Programming
 In general, I don't like math, and I'm terrible in stuffs like leetcode. However, I still love to create entertaining things like minigames on my computer, which is why I haven't yet switched my major. And, programming is useful in almost any field of work today, just as what *Ram Ray* said:
 > No matter which field of work you want to go in, it is of great importance to learn at least one programming language.
+
 I also like the vision and opportunities that computer science can bring me, just like how everyone write their first line of code:
 ```
 cout << "Hello, World!";
